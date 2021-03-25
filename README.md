@@ -145,6 +145,8 @@ From 2017-2020, I did several other independent computational research projects,
 Articles as listed on PubMed https://www.ncbi.nlm.nih.gov/pubmed/?term=Shradha+Mukherjee
 and open access link to full text of articles are provided below.
 
+ Mukherjee S*† (under review, work started in 2017). Immune signature genes are enriched in shared gene networks associated with neurological disorders: Multiple Sclerosis (MS), Alzheimer’s disease (AD), Parkinson’s disease (PD) and Huntington’s disease (HD). (Independent research).
+
  Mukherjee S*† (2020). Quiescent stem cell marker genes in glioma gene networks are sufficient to distinguish between normal and glioblastoma (GBM) samples. Scientific Reports 10, 10937. https://doi.org/10.1038/s41598-020-67753-5 (Independent research).
 
  Mukherjee S*†, Klaus C†, Pricop-Jeckstadt M, Miller JA and Struebing FL*† (2019). A Microglial Signature Directing Human Aging and Neurodegeneration-Related Gene Networks. Frontiers in Neuroscience 13:2. https://doi.org/10.3389/fnins.2019.00002 (Independent research).
