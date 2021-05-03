@@ -101,7 +101,7 @@ Data Science With Python, R, Unix, Machine Learning, Artificial Intelligence and
 
  Cluster computing and cloud computing (Cyverse, Galaxy) 
 
- Statistical, bioinformatics and informatics programming in scripting languages (R, UNIX, Python and SQL)
+ Statistical, bioinformatics and informatics programming in scripting languages (R, UNIX, Python, JavaScript and SQL)
 
  Variant analysis (FreeBayes, GATK)
 
@@ -134,7 +134,7 @@ Data Science With Python, R, Unix, Machine Learning, Artificial Intelligence and
  Cutaneous and Ocular Toxicology Travel Grant Award Association for Research in Vision and Ophthalmology, for presentation on lead (Pb) toxicity in retina Fort Lauderdale, FL, U.S.                                                                                                                                                                  2009 
 
  
-## Select Publications †first author *corresponding author
+## Publications †first author *corresponding author
 Articles as listed on PubMed https://www.ncbi.nlm.nih.gov/pubmed/?term=Shradha+Mukherjee
 and open access link to full text of articles are provided below.
 
