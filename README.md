@@ -40,6 +40,36 @@ Project: Developed computational pipeline to integrate drug-gene interaction and
  MS (Masters in Science) in Chemistry, Indian Institute of Technology (IIT), Madras, India.                                                                         2003-2005 
                                                                                                                                    
 
+## Course Audits and Certifications in Communication, Data Science, Web Development and Management 
+
+Written Communication Courses
+ Course Stanford Conquering Humor Fundamentals | edX
+ Course Humor Writing: How to Think, Write, Speak, and Be Funnier! | Udemy
+ Course Writing With Flair from WSJ writer: How To Become An Exceptional Writer | Udemy
+ Course Stanford Writing in the Sciences | Coursera
+
+Management Courses
+ Course University of London Managing the Company of the Future | Coursera 
+ Course University Of Virginia And Boston Consulting Group 5 Course Specialization Leading Modern Day Business | Coursera
+ Course University Of Virginia 5 Course Specialization Digital Product Management: Modern Fundamentals | Coursera
+ Course The Product Management for AI & Data Science Course 2021 | Udemy
+
+Full Stack Web Development With JavaScript Courses
+ Course https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/
+ Course https://www.udemy.com/course/the-web-developer-bootcamp/
+ Course UC Davis JavaScript Basics | Coursera
+ Course Introduction to Node.js (LFW111x) - Linux Foundation - Training
+ Course University of London Web Application Development with JavaScript and MongoDB | Coursera
+
+Data Science With Python, R, Unix, Machine Learning, Artificial Intelligence and Deep Learning 
+ Course Artificial Intelligence Masterclass | Udemy
+ Course Data Science Training Course: Data Scientist Bootcamp | Udemy
+ Course Python for Statistical Analysis | Udemy
+ Course Genomic Data Science with R and Unix | Coursera
+ Course Python for Genomic Data Science | Coursera
+ Course Python for Data Science, AI & Development | Coursera
+
+
 ## Leadership and Mentoring Experiences 
 
  Served as reviewer on several scientific publications, such as Cancer Biotherapy and Radiopharmaceuticals https://www.liebertpub.com/loi/cbr , Scientific Reports https://www.nature.com/srep/ and others.                                                                                                                          2017-present
